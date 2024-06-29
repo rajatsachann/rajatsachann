@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rajat Sachan</h1>
-- 🔭 I’m currently working on **Chubb**
+<h1>Hi 👋, I'm Rajat Sachan</h1>
+- 🔭 I’m currently working on Chubb
 
 - 👯 I’m looking to collaborate on **Developer Tooling**
 
