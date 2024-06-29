@@ -1,13 +1,13 @@
 <h1>Hi 👋, I'm Rajat Sachan</h1>
-- 🔭 I’m currently working on Chubb
+- 🔭 I’m currently working on <strong>Chubb</strong>
 
 - 👯 I’m looking to collaborate on **Developer Tooling**
 
 - 🤝 I’m looking for help with **Framework Collaboration**
 
-- 💬 Ask me about **Angular, Node**
+- 💬 Ask me about **Javascript Frameworks**
 
-- 📫 How to reach me **rajat7sachan@gmail.com**
+- 📫 How to reach me rajat7sachan@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
