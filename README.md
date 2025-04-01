@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rajat Sachan</h1>
-- 🔭 I’m currently working on <strong>Chubb</strong>
+- 🔭 I’m currently working with <strong>The LCF Group</strong>
 
 - 👯 I’m looking to collaborate on **Developer Tooling**
 
