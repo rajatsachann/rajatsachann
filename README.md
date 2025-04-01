@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **Framework Collaboration**
 
-- 💬 Ask me about **Javascript Frameworks**
+- 💬 Ask me about **JavaScript Frameworks** and **TypeScript Frameworks**
 
 - 📫 How to reach me rajat7sachan@gmail.com
 
